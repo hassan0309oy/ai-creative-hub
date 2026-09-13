@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "postgresql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789299301656,
+      "tag": "0000_hassan_food_core_schema",
+      "breakpoints": true
+    }
+  ]
 }
