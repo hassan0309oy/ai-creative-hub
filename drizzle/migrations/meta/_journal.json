@@ -15,6 +15,13 @@
       "when": 1789299341834,
       "tag": "0001_hassan_food_seed_catalogue",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789299460141,
+      "tag": "0002_hassan_food_seed_recipes",
+      "breakpoints": true
     }
   ]
 }
